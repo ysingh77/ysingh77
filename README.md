@@ -1,4 +1,4 @@
-👋 Hi, I’m Yogendra Singh.
+👋 Hi, I’m Yogendra Singh. This GitHub profile marks the beginning of a renewed chapter in my Developer journey.
 
 🌍 I'm based based out of Pune.
 
