@@ -1,9 +1,15 @@
 👋 Hi, I’m Yogendra Singh.
+
 🌍 I'm based based out of Pune.
+
 ✉️ You can reach out to me at iamysy7@gmail.com
+
 👀 I’m interested in software engineering roles.
+
 🌱 I’m currently learning Java, WebDev and Rust currently.
+
 🤝 I'm open to collaborating on any challenging task.
+
 ⚡ Fun fact: I'm fluent in multiple programming languages and two human ones!
 
 <!---
